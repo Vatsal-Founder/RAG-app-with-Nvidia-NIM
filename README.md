@@ -14,6 +14,7 @@ An end‑to‑end **RAG** application that performs fast, grounded Q\&A over **a
 * 🧱 **LangChain pipeline**: loader → splitter → embeddings → vector store → retriever → LLM.
 * 🖥️ **Streamlit UI** for a simple, shareable demo.
 
+Link: 
 ---
 
 ## Architecture
